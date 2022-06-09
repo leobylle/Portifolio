@@ -247,3 +247,19 @@ p {
 
 
 }
+/*footer*/
+footer p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: royalblue;
+
+}
+footer a{
+    display: inline-block;
+    color:yellow;
+    background-color:blue;
+    border: 1px solid cornflowerblue;
+    font-size: 3rem;
+   
+   }
