@@ -255,28 +255,4 @@ footer p{
     color: royalblue;
 
 }
-footer a{
-    display: inline-block;
-    padding: 10px 30px;
-    color: gold;
-    background-color: transparent;
-    border: 2px solid gold;
-    font-size: 2rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
-    margin-top: 20px;
-    transition: .5s ease;
-    transition-property: background-color, color;
-
    
-   }
-   footer a:hover{
-    color: white;
-    font-weight: 500;
-    background-color: gold;
-   }
-   footer{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   }
