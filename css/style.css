@@ -255,4 +255,24 @@ footer p{
     color: royalblue;
 
 }
+  .bta{
+    display: flex;
+    padding: 10px 30px;
+    color: black;
+    background-color: transparent;    
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-top: 20px;
+    transition: .5s ease;
+    transition-property: background-color, color;
+    align-items: center;
+    justify-content: center;
+}
+.bta:hover{
+    color: white;
+    font-weight: 500;
+    background-color: gold;
    
+
+}
